@@ -1,0 +1,18 @@
+<head>
+	<link href='https://fonts.googleapis.com/css?family=Poiret+One' rel='stylesheet' type='text/css'>
+	<link href='https://fonts.googleapis.com/css?family=Glass+Antiqua' rel='stylesheet' type='text/css'>
+</head>
+<div class = "all"
+<section class = "intro"><h1>
+	 ERIKA HARVEY
+<!--<span class = "smaller">Intelligent Creative Design & Development</span--<!--><!----></h1>
+</section>
+<section>
+	<section class = "nav">
+		<ul>
+			<li><a href = "#">design</a></li>
+			<li><a href = "#">develop</a></li>
+			<li><a href = "#">about</a></li>
+			<li><a href = "#">contact</a></li>
+			</section>
+		</div>
